@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://olamide:DAMIlola123@cluster0.nynxx.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret":"secret"
+}
